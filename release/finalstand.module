@@ -17,11 +17,12 @@ archive.02 = finalstand\Archives\GameAttrib_orig.sga
 
 [sound:common]
 folder.01 = GameAssets\Data\Sound
-archive.01 = GameAssets\Archives\GameSoundContainers.sga
-archive.02 = GameAssets\Archives\003_sound.sga
-archive.03 = GameAssets\Archives\002_sound.sga
-archive.04 = GameAssets\Archives\001_sound.sga
-archive.05 = GameAssets\Archives\000_sound.sga
+archive.01 = GameAssets\Archives\finalstand_mainmenu.sga
+archive.02 = GameAssets\Archives\GameSoundContainers.sga
+archive.03 = GameAssets\Archives\003_sound.sga
+archive.04 = GameAssets\Archives\002_sound.sga
+archive.05 = GameAssets\Archives\001_sound.sga
+archive.06 = GameAssets\Archives\000_sound.sga
 
 [sound:english]
 folder.01 = GameAssets\Locale\English\Sound
