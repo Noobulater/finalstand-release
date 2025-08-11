@@ -1,0 +1,4 @@
+# Ensure files remain untouched
+*.module binary
+*.exe binary
+*.chunk binary
