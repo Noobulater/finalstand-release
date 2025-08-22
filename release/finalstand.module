@@ -3,6 +3,7 @@ Name = finalstand
 UIName = Final Stand
 Description = A sizeable and sustainable update to the last stand mode, unifying and expanding the last stand's mod landscape.
 ModVersion = 0.641
+ModContentVersion = 0.0
 ModFolder = finalstand
 ; Note: the engine mounts the following automat(g)ically:
 ; 	movies:	GameAssets\Data\Movies
@@ -178,4 +179,5 @@ archive.28 = GameAssets\Archives\000_laststand.sga
 archive.29 = GameAssets\Archives\000_multiplayer.sga
 archive.30 = GameAssets\Archives\000_extra.sga
 archive.31 = GameAssets\Archives\000_data.sga
+
 
