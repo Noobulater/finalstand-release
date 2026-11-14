@@ -4,7 +4,7 @@ UIName = Final Stand
 Description = A sizeable and sustainable update to the last stand mode, unifying and expanding the last stand's mod landscape.
 ModVersion = 0.8
 ModFolder = finalstand
-; Note: the engine mounts the following automat(g)ically:
+; Note: the engine mounts the following automat(g)icaly:
 ; 	movies:	GameAssets\Data\Movies
 ; 	folder:	GameAssets\Locale\<lang>
 UCSBaseIndex = 66700000
